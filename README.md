@@ -6,6 +6,8 @@ git clone the repo
 
 cd into the main folder 
 
+setup.sh 
+
 use rustc to compile 
 
 make it using cargo build main.rs 
