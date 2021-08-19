@@ -6,7 +6,11 @@ git clone the repo
 
 cd into the main folder 
 
-then cd into src 
+use rustc to compile 
+
+make it using cargo build main.rs 
+
+if that doesnt work and gives error just do cargo run -- -j 1000 127.0.0.1 ( test ip ) 
 
 then from then on do the following 
 
